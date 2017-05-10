@@ -1,17 +1,17 @@
 body {
     text-align: center;
-    color: purple;
+    color: #b416ba;
     font-size: 20px;
 }
 
 .jumbotron {
     padding: 2%;
-    background: #11efff;
+    background: #00a2c6;
     color: #fff;
 }
 
 main {
-    padding: 2%;
+    padding: 3%;
 }
 
 #pregame {
@@ -31,7 +31,7 @@ main {
 .tag-lg {
     margin-right: 2%;
     margin-bottom: 2%;
-    box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.1);
+    box-shadow: 3px 2px 2px 3px rgba(0,0,0,0.1);
 }
 
 /* A smaller chip to display the score of a letter or word */
@@ -42,13 +42,13 @@ main {
 
 .word-submission {
     font-size: 30px;
-    color: orange;
+    color: #53bf05;
     font-weight: normal;
 }
 
 .allowed-letter {
     font-size: 40px;
-    color: orange;
+    color: #53bf05;
 }
 
 .scoreboard-data {
